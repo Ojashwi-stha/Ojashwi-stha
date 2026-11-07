@@ -4,6 +4,8 @@ I'm a Computer Information Sciences student at Washburn University (Topeka, KS),
 
 I'm looking for **Summer 2027 internships** in product, product marketing, UX or cybersecurity.
 
+**Portfolio:** [ojashwi-stha.github.io](https://ojashwi-stha.github.io/), with my case studies, design work, photography and writing.
+
 ## What I've worked on
 
 - **[PhishGuard](https://github.com/Ojashwi-stha/PhishGuard)**: a phishing email detector built with a teammate (Python, Flask, HTML/CSS, JavaScript). I built the sensitive-information detection rule, added drag-and-drop email upload, created test emails and wrote the FAQ and Common Breaches pages.
@@ -16,5 +18,6 @@ Java · Python · C++ · HTML/CSS · JavaScript · Git/GitHub · Linux · Figma 
 
 ## Find me
 
+- [Portfolio](https://ojashwi-stha.github.io/)
 - [LinkedIn](http://www.linkedin.com/in/ojashwi-shrestha-8a37352a2)
 - ojashwishrestha01@gmail.com
