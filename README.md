@@ -7,7 +7,7 @@ I'm looking for **Summer 2027 internships** in product, product marketing, UX or
 ## What I've worked on
 
 - **[PhishGuard](https://github.com/Ojashwi-stha/PhishGuard)**: a phishing email detector built with a teammate (Python, Flask, HTML/CSS, JavaScript). I built the sensitive-information detection rule, added drag-and-drop email upload, created test emails and wrote the FAQ and Common Breaches pages.
-- **[Washburn Student Media]Ojashwi Shrestha - The Washburn Review**: designed most of the 2025–26 advertising kit and sold ad placements to local clients.Wrote and published 30+ stories and photo galleries for the Washburn Review and Indigo, interviewing students and faculty.
+- **[Washburn Student Media](https://washburnreview.org/staff_name/ojashwi-shrestha/)**: designed most of the 2025–26 advertising kit and sold ad placements to local clients. Wrote and published 30+ stories and photo galleries for the Washburn Review and Indigo, interviewing students and faculty ([see my staff profile](https://washburnreview.org/staff_name/ojashwi-shrestha/)).
 - **Girls Who Code College Loop (President)**: hosting tech-themed events for students at Washburn.
 
 ## Tools I use
